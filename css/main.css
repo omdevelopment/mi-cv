@@ -775,7 +775,7 @@ a {
       font-weight: normal;
       font-size: 15px;
       line-height: 18px;
-      text-transform: uppercase;
+      
       color: #FDE3A7;
       margin: 0; }
     .experience-skills__percent {
@@ -956,7 +956,7 @@ a {
     font-family: "NeueMontreal-Medium", sans-serif; }
     .services-title span.mark {
       display: block;
-      font-size: 220px;
+      font-size: 150px;
       line-height: 90%;
       margin-right: 34px; }
     .services-title span.txt {
